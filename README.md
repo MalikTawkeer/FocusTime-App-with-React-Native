@@ -1,11 +1,7 @@
-# Sample Snack app
+# Focus time Mobile application for both Android and iOs
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+the intension of making this application is to solve a problem of somthing that you may not have realized yet , but most people phase this problem . So here is the problem statement . have you ever does anything faster by setting a timer .Yes You have that is it same thing is happning here i this application ,
+      you simply wrtie the task click on enter button, it takes you to another screen where you are able to see the timer, start/pause and other add time buttons. After the focus is compeleted the task is getting stored and marked as focused.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+thanks for giving a time to read these statements...........
